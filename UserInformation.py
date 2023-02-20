@@ -1,3 +1,5 @@
+# This Object oriented version of control your data and some operation
+
 from deepface import DeepFace
 from BotSay import BotTalk
 import cv2

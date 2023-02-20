@@ -1,7 +1,6 @@
 import speech_recognition as s_r
-import pyaudio as pa
+import pyaudio
 import pyttsx3
-
 
 class BotTalk:
     def __init__(self):
@@ -17,7 +16,7 @@ class BotTalk:
         with s_r.Microphone(device_index=1) as source:
             print("Say now!!!!")
             # r.adjust_for_ambient_noise(source)  # reduce noise
-            audio = r.listen(source,phrase_time_limit=4)  # take voice input from the microphone
+            audio = r.listen(source,phrase_time_limit=6)  # take voice input from the microphone
             said = ""
             try:
                 said = r.recognize_google(audio,language='en-in')
@@ -25,3 +24,5 @@ class BotTalk:
                 print("Exception: " + str(e))
 
         return said  # to return voice into text
+
+
