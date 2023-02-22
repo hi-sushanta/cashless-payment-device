@@ -47,7 +47,7 @@ class DataBaseConnect:
                 img_np = cv2.imdecode(nparr, cv2.IMREAD_COLOR)  # cv2.IMREAD_COLOR in OpenCV 3.1
                 result = DeepFace.verify(img, img_np, enforce_detection=False, model_name='Facenet512')
                 if result['verified']:
-                    self.bot_talk.say_speach("Match Successfully")
+                    self.bot_talk.say_speach(f"Match Successfully. Verify person name is {dt[0]} {dt[1]}")
                     return dt
                 elif count == len(data):
                     self.bot_talk.say_speach("Don't match this person")
