@@ -1,11 +1,11 @@
-# cashless-payment-device
 
-I am **currently** working on this project. This project helps anyone **transfer money** from one person to another **digitally**.    
+# Cashless Payment System 
+This project is all about creating a better Cashless Payment💱 system using Artificial Intelligence 🤖.
 
-If you don't know the **technology**, it doesn't matter with this **device**. 
-because the device assistant asks you some questions and you have to answer them.
+Suppose you pay someone, and your device asked how much and which person, and your payment is done. How simple is it?
+My Goal 🎯 is to create a true digital cashless payment system that is secure, fast, and easy for everyone! 
 
-Just like your **brother** and **sister** ask you.    
+👨‍👨‍👦‍👦People do not worry about sending and receiving the money to anyone world. Because making money is not easy so why not create a system that protects people's money safe. 
 
-Follow this simple process to complete your **money transaction**.
+I believe Artificial Intelligence solves human any problem in 21 st century!
 
