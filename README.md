@@ -8,7 +8,6 @@ The project that I am currently working on is a cashless payment system that use
 
 **Key Features** - The cashless payment system will feature a user-friendly interface that enables users to make payments quickly and easily. The system will use facial recognition technology to identify users and authenticate transactions, providing an added layer of security to the payment process. In addition, the system will use natural language processing to enable users to communicate with the system using voice commands, making it more accessible to users with disabilities.
 
-**System Architecture** - The cashless payment system will consist of two primary components: the user interface and the back-end processing system. The user interface will be a mobile application that allows users to initiate and complete payment transactions. The back-end processing system will be hosted on a secure server and will use AI technology to process payment transactions in real time.
 
 **Technologies Used** - The cashless payment system will use a variety of AI technologies, including computer vision, natural language processing, and machine learning. The system will also use blockchain technology to ensure the security and integrity of each transaction.
 
